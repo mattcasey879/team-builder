@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  flex-flow: column;
+  text-align: right;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+form label{
+  
+  padding: 3%;
+}
+form button{
+  width: 5%;
+
+}
